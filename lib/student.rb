@@ -7,5 +7,5 @@ class Student
       @last = last
       @arr = []
     end
-    
+
 end
